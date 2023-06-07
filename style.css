@@ -1,0 +1,36 @@
+.circulo{
+    background-color:rgb(183, 106, 255);
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    border-style:dotted;
+    border-width: 10px;
+    border-color: #04bbe4;
+
+}
+
+.ex2{
+    display:inline-flex;
+}
+
+.quadrado{
+    background-color: #b364fb;
+    border-radius: 25%;
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    border-width: 15px;
+    border-color: #04bbe4;
+    margin-right: 30px;
+}
+
+.quadrado2{
+    background-color: #04bbe4;
+    width: 300px;
+    height: 300px;
+    border-style: dashed;
+    border-width: 15px;
+    border-color:#b364fb;
+    text-align: center;
+    color: white;
+}
